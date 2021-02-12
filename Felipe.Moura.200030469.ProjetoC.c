@@ -52,7 +52,7 @@ int main()
     int opc, cont=0;
     struct Associado assoc[9999];
 
-    printf("----- Projeto -----");
+    printf("----- Projeto C -----");
     printf("\n\n\n");
     printf("<Gerenciador de Associados>");
     printf("\n\n\n");
