@@ -106,7 +106,7 @@ int main()
     }while(opc != 7);
 
     system("cls || clear");
-    printf("Ate a proxima");
+    printf("Ate a proxima!");
     printf("\n");
 
     return 0;
